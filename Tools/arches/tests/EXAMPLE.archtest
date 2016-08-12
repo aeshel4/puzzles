@@ -1,0 +1,16 @@
+<relativeFilename:grid>
+<TRIANGULAR|RECTANGULAR|HEXAGONAL>
+<numDimensions>
+<delimiter_1>
+...
+<delimiter_n>
+[false|true:HEX:north_south]
+[skipChar:HEX]
+<CLASSIC|BOGGLE|KNIGHT|JUMP>
+<false|true:wrapAround>
+<false|true:cardinalOnly>
+<false|true:reuse>
+<false|true:letterOff>
+<false|points|words:eliminateOverlap>
+<relativeFilename:outputToMatch>
+<relativeFilename:dictionary || listOfWordsSeparatedByNewLines>

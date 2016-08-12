@@ -1,0 +1,121 @@
+﻿http://members.bellatlantic.net/~devjoe/MIT_Mystery_Hunt_Puzzle.html
+http://members.bellatlantic.net/~devjoe/huntindex/wordsearch.html
+
+spock.txt
+   only find word spock
+
+oldtraveler.txt
+   regular word search for animals
+
+knightshade.txt
+   knight, zero overlap?
+
+blogs.txt
+   boggle, cardinal ???
+
+pathwinds.txt
+   boggle, with zero overlap and every letter used (for phrase)
+
+mascots.txt
+   boggle, with zero overlap and every letter used (for phrase)
+
+knightphrase.txt
+   knight, with zero overlap and every letter used (for phrase starts in top left includes spaces)
+
+misspelled.txt
+   classic, one letter misspelled in each book title though (know nothing though, just grid)
+
+snakes.txt
+   boggle, cardinal, no repeat, exclusive, word list below
+ Anaconda
+ Banded krait
+ Boa constrictor
+ Boomslang
+ Broad-banded copperhead
+ Bushmaster
+ Cascabel
+ Coachwhip
+ Death adder
+ Desert massasauga
+ Diamondback
+ Eastern indigo
+ Fer-de-lance
+ Gaboon viper
+ King cobra
+ Mussurana
+ Reticulated python
+ Rinkhals
+ Rock mamushi
+ Sidewinder
+ Stinking goddess
+ Taipan
+ Timber rattler
+ Water moccasin
+ Western cottonmouth
+ Yellow-tailed cribo
+
+caesar.txt
+   no idea, but word list in three columns (cicero/diadem and et tu brute/clitus)
+ FRIENDS
+ ROMANS
+ COUNTRYMEN
+ I COME TO BURY CAESAR NOT TO PRAISE HIM
+ JULIUS
+ PHILIPPI
+ TRAGEDY
+ STRATO
+ CICERO
+ DIADEM
+ ONLY I YIELD TO DIE
+ CAIUS CASSIUS
+ CRY HAVOC
+ AND LET SLIP THE DOGS OF WAR
+ ACT III
+ SONS OF POMPEY
+ TREBONIUS
+ MURDER
+ ET TU BRUTE
+ CLITUS
+ OUR COURSE WILL SEEM TOO BLOODY
+ THIS WAS THE MOST UNKINDEST CUT
+ AEMILIUS LEPIDUS
+ POMPEYíS THEATER
+ BRUTUS IS AN HONORABLE MAN
+ THE IDES OF MARCH
+
+arena.txt
+   knight, 3D, zero overlap and every letter used (NOT phrase), try without word list too
+ XYLOPHONIST
+ SWIZZLESTICK
+ CONQUISTADOR
+ KNUCKLEJOINT
+ MAURICECHEVALIER
+ ZWIEBACK
+ QUINQUENNIAL
+ CABALLERO
+ JIMSONWEED
+ PRIZEFIGHTER
+ JUVENILEDELINQUENT
+ THREEDIMENSIONAL
+ VENTRILOQUIZING
+ PHLEGMATIC
+ BOOKKEEPER
+ SWORDOFDAMOCLES
+ CONFERENCE
+ CARELESS
+
+hex_ns_square.txt
+   convert to a hex grid !topLeftIsCorner, wavy lines allowed (2nd group)
+PRIORITY
+LUCIA
+TRIVIAL
+ELIANA
+OKAPI
+RECOVER
+
+PECCARY
+SMOKED
+STRAWBERRY
+NEARLY
+BUOYANT
+PIPETTE

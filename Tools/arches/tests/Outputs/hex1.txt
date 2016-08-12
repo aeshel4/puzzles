@@ -1,0 +1,25 @@
+  S C A C E L I A N A
+ T D B I C H B P P I
+  R D P I L R U I E N
+ A E A R A E O P C E
+  W K A I V Q Y E C A
+ B O Z V O J A T A R
+  E M I C R F N T R L
+ R S R E D I T E Y Y
+  R T R C U T G P P C
+ Y L U C I A Y O H C
+
+
+
+1: STRAWBERRY: [Line:0 #1]   [Line:1 #0]   [Line:2 #1]   [Line:3 #0]   [Line:4 #1]   [Line:5 #0]   [Line:6 #1]   [Line:7 #0]   [Line:8 #1]   [Line:9 #0]
+2: ELIANA: [Line:0 #5]   [Line:0 #6]   [Line:0 #7]   [Line:0 #8]   [Line:0 #9]   [Line:0 #10]
+3: BUOYANT: [Line:1 #6]   [Line:2 #7]   [Line:3 #6]   [Line:4 #7]   [Line:5 #6]   [Line:6 #7]   [Line:7 #6]
+4: PIPETTE: [Line:1 #7]   [Line:2 #8]   [Line:3 #7]   [Line:4 #8]   [Line:5 #7]   [Line:6 #8]   [Line:7 #7]
+5: PECCARY: [Line:1 #8]   [Line:2 #9]   [Line:3 #8]   [Line:4 #9]   [Line:5 #8]   [Line:6 #9]   [Line:7 #8]
+6: PRIORITY: [Line:2 #3]   [Line:3 #3]   [Line:4 #4]   [Line:5 #4]   [Line:6 #5]   [Line:7 #5]   [Line:8 #6]   [Line:9 #6]
+7: NEARLY: [Line:2 #10]   [Line:3 #9]   [Line:4 #10]   [Line:5 #9]   [Line:6 #10]   [Line:7 #9]
+8: OKAPI: [Line:5 #1]   [Line:4 #2]   [Line:3 #2]   [Line:2 #3]   [Line:1 #3]
+9: SMOKED: [Line:7 #1]   [Line:6 #2]   [Line:5 #1]   [Line:4 #2]   [Line:3 #1]   [Line:2 #2]
+10: TRIVIAL: [Line:8 #2]   [Line:7 #2]   [Line:6 #3]   [Line:5 #3]   [Line:4 #4]   [Line:3 #4]   [Line:2 #5]
+11: RECOVER: [Line:8 #3]   [Line:7 #3]   [Line:6 #4]   [Line:5 #4]   [Line:4 #5]   [Line:3 #5]   [Line:2 #6]
+12: LUCIA: [Line:9 #1]   [Line:9 #2]   [Line:9 #3]   [Line:9 #4]   [Line:9 #5]

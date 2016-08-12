@@ -1,0 +1,59 @@
+P    P    O    C    K    K    S    C    K    C    S    O    C    O    S    C    S    P    O    C    K
+S    P    S    K    C    S    P    P    C    K    P    K    S    P    K    K    P    K    P    O    C
+P    K    C    P    O    P    O    C    O    S    O    C    O    P    S    P    O    C    K    S    C
+O    S    P    O    P    O    C    K    P    C    S    C    K    S    P    O    C    P    S    O    P
+C    S    O    P    S    K    C    C    P    C    K    P    C    K    S    P    K    C    O    P    S
+K    C    O    P    S    K    K    O    K    S    O    K    O    P    O    S    K    C    O    P    S
+P    O    C    K    P    C    S    C    S    C    S    P    O    K    S    K    C    P    K    C    P
+S    K    K    O    S    O    O    K    O    P    S    C    P    O    P    C    O    S    P    K    O
+P    C    C    P    O    P    P    O    K    P    O    S    K    C    K    S    P    O    C    O    C
+O    O    C    K    S    P    O    C    O    P    S    P    P    C    O    P    S    P    O    C    K
+S    P    O    K    K    S    C    C    S    O    P    O    C    O    S    O    C    P    O    K    C
+K    S    P    O    C    K    K    S    K    C    S    C    O    K    C    C    S    C    S    P    O
+P    O    S    C    S    P    O    K    S    P    O    K    P    S    O    K    C    O    O    S    P
+C    O    P    P    K    S    C    O    P    O    P    S    C    P    P    S    K    C    O    P    S
+S    P    O    S    O    S    P    S    O    K    C    S    P    O    C    O    P    P    K    O    K
+K    C    C    K    P    C    S    P    P    C    K    P    S    C    P    O    C    K    C    O    C
+K    O    S    P    O    C    K    O    S    O    P    O    C    K    O    K    P    K    O    C    S
+C    P    C    O    P    O    C    C    P    S    C    C    K    C    C    P    C    S    P    K    P
+O    K    S    S    C    K    O    K    K    S    P    K    P    O    K    O    P    O    O    P    S
+P    C    O    P    S    C    P    O    C    K    O    S    C    P    P    S    K    S    O    C    K
+S    P    O    C    O    P    S    P    O    K    C    O    S    S    O    C    O    K    C    O    S
+
+
+1: SPOCK: (0, 6)   (1, 7)   (2, 8)   (3, 9)   (4, 10)
+2: SPOCK: (0, 14)   (1, 13)   (2, 12)   (3, 11)   (4, 10)
+3: SPOCK: (0, 16)   (0, 17)   (0, 18)   (0, 19)   (0, 20)
+4: SPOCK: (0, 16)   (1, 16)   (2, 16)   (3, 16)   (4, 16)
+5: SPOCK: (1, 0)   (2, 0)   (3, 0)   (4, 0)   (5, 0)
+6: SPOCK: (2, 14)   (2, 15)   (2, 16)   (2, 17)   (2, 18)
+7: SPOCK: (4, 4)   (3, 4)   (2, 4)   (1, 4)   (0, 4)
+8: SPOCK: (4, 20)   (4, 19)   (4, 18)   (4, 17)   (4, 16)
+9: SPOCK: (5, 4)   (5, 3)   (5, 2)   (5, 1)   (5, 0)
+10: SPOCK: (5, 20)   (5, 19)   (5, 18)   (5, 17)   (5, 16)
+11: SPOCK: (5, 20)   (6, 20)   (7, 20)   (8, 20)   (9, 20)
+12: SPOCK: (7, 4)   (8, 5)   (9, 6)   (10, 7)   (11, 8)
+13: SPOCK: (7, 10)   (8, 9)   (9, 8)   (10, 7)   (11, 6)
+14: SPOCK: (8, 11)   (9, 11)   (10, 11)   (11, 11)   (12, 11)
+15: SPOCK: (8, 11)   (9, 12)   (10, 13)   (11, 14)   (12, 15)
+16: SPOCK: (8, 15)   (9, 15)   (10, 15)   (11, 15)   (12, 15)
+17: SPOCK: (9, 4)   (8, 5)   (7, 6)   (6, 7)   (5, 8)
+18: SPOCK: (9, 10)   (8, 9)   (7, 8)   (6, 7)   (5, 6)
+19: SPOCK: (9, 16)   (8, 16)   (7, 16)   (6, 16)   (5, 16)
+20: SPOCK: (9, 16)   (9, 17)   (9, 18)   (9, 19)   (9, 20)
+21: SPOCK: (11, 1)   (10, 1)   (9, 1)   (8, 1)   (7, 1)
+22: SPOCK: (11, 1)   (11, 2)   (11, 3)   (11, 4)   (11, 5)
+23: SPOCK: (12, 2)   (13, 3)   (14, 4)   (15, 5)   (16, 6)
+24: SPOCK: (12, 4)   (13, 3)   (14, 2)   (15, 1)   (16, 0)
+25: SPOCK: (12, 13)   (13, 13)   (14, 13)   (15, 13)   (16, 13)
+26: SPOCK: (12, 13)   (13, 14)   (14, 15)   (15, 16)   (16, 17)
+27: SPOCK: (13, 20)   (12, 20)   (11, 20)   (10, 20)   (9, 20)
+28: SPOCK: (13, 20)   (13, 19)   (13, 18)   (13, 17)   (13, 16)
+29: SPOCK: (14, 7)   (15, 7)   (16, 7)   (17, 7)   (18, 7)
+30: SPOCK: (14, 7)   (15, 8)   (16, 9)   (17, 10)   (18, 11)
+31: SPOCK: (14, 11)   (15, 11)   (16, 11)   (17, 11)   (18, 11)
+32: SPOCK: (16, 2)   (16, 3)   (16, 4)   (16, 5)   (16, 6)
+33: SPOCK: (20, 0)   (19, 0)   (18, 0)   (17, 0)   (16, 0)
+34: SPOCK: (20, 6)   (19, 6)   (18, 6)   (17, 6)   (16, 6)
+35: SPOCK: (20, 13)   (19, 13)   (18, 13)   (17, 13)   (16, 13)
+36: SPOCK: (20, 13)   (19, 14)   (18, 15)   (17, 16)   (16, 17)
